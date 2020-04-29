@@ -1,9 +1,17 @@
-# Notas:
+# Node Queue Application:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Created on Curso Node by Fernando Herrera.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+## Initial config
 
 ```
 npm install
 ```
+
+## Test Live now!
+- (Node Queue Application deployed on Heroku)[https://jibaru-sockets-queue.herokuapp.com]
+
+## Links
+
+- (Fernando Herrera - Instructor)[https://github.com/Klerith]
+- (Node Course - Spanish)[https://www.udemy.com/course/node-de-cero-a-experto]
