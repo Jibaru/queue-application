@@ -9,9 +9,9 @@ npm install
 ```
 
 ## Test Live now!
-- (Node Queue Application deployed on Heroku)[https://jibaru-sockets-queue.herokuapp.com]
+- [Node Queue Application deployed on Heroku](https://jibaru-sockets-queue.herokuapp.com)
 
 ## Links
 
-- (Fernando Herrera - Instructor)[https://github.com/Klerith]
-- (Node Course - Spanish)[https://www.udemy.com/course/node-de-cero-a-experto]
+- [Fernando Herrera - Instructor](https://github.com/Klerith)
+- [Node Course - Spanish](https://www.udemy.com/course/node-de-cero-a-experto)
